@@ -26,8 +26,8 @@ Most modern websites auto-redirect to **HTTPS**, so plain `http` is rare.
 Captured traffic appears as **TLSv1.2**, which is secure HTTP.
 
 ## 📷 Screenshots
-- `tcp_packets.jpg`
-- `icmp_response.jpg`
+- `tcp_filter.jpg`
+- `icmp_ping.jpg`
   
 
 ## 📁 Files Included
